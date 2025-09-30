@@ -86,3 +86,7 @@ AGENTS.md
 # MCP Server
 mcp_server/prowler_mcp_server/prowler_app/server.py
 mcp_server/prowler_mcp_server/prowler_app/utils/schema.yaml
+
+# Ignore files containing secrets
+.env
+.pem
